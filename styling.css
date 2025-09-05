@@ -10,12 +10,12 @@ body {
 #temp {
     height: 1000.97px;
     width: 1440px;
-    margin: 30px;
+    margin: 10px;
     background-color: #ffffff;
     border-radius: 6%;
     position: relative;
-    left: 720px;
-    top: 300px;
+    left: 0px;
+    top: 0px;
 
 }
 
@@ -356,3 +356,4 @@ pre {
     left: 440px;
 
 }
+
